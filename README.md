@@ -20,3 +20,5 @@ The logic implemented in the Arduino code is straightforward. When the analog va
 The entire circuit and code were designed and tested in Tinkercad, a free online platform by Autodesk that allows users to simulate electronics circuits virtually. Tinkercad provides a drag-and-drop interface to place components like Arduino, LEDs, resistors, and LDRs on a virtual breadboard. It also allows users to write and upload Arduino code and observe the output in real time. One of the useful features in Tinkercad is the LDR light slider, which simulates varying ambient light and helps test the circuit's response to different light levels.
 
 This project not only introduces students to the fundamentals of sensor-based automation but also enhances understanding of analog input, digital output control, and real-world applications of embedded systems. It demonstrates how simple components can be used effectively to solve everyday problems, and how platforms like Tinkercad can make prototyping and learning accessible without needing physical hardware.
+
+![Image](https://github.com/user-attachments/assets/2386c520-6ddd-4fb4-9e14-47eb34f6aadb)
